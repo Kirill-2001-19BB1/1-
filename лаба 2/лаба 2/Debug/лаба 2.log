@@ -1,0 +1,40 @@
+﻿Построение начато 11.12.2020 1:29:21.
+     1>Проект "C:\Users\Кирлл\documents\visual studio 2010\Projects\лаба 2\лаба 2\лаба 2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\лаба 2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 2.cpp
+         2.cpp
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(112): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(120): warning C4101: start3: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(121): warning C4101: start4: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(124): warning C4101: end7: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(120): warning C4101: end3: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(118): warning C4101: start1: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(119): warning C4101: start2: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(123): warning C4101: end6: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(119): warning C4101: end2: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(125): warning C4101: start8: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(123): warning C4101: start6: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(117): warning C4101: end: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(117): warning C4101: start: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(122): warning C4101: end5: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(118): warning C4101: end1: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(122): warning C4101: start5: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(125): warning C4101: end8: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(121): warning C4101: end4: неиспользованная локальная переменная
+     1>c:\users\кирлл\documents\visual studio 2010\projects\лаба 2\лаба 2\2.cpp(124): warning C4101: start7: неиспользованная локальная переменная
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Кирлл\documents\visual studio 2010\Projects\лаба 2\Debug\лаба 2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\лаба 2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Кирлл\documents\visual studio 2010\Projects\лаба 2\Debug\лаба 2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Кирлл\documents\visual studio 2010\Projects\лаба 2\Debug\лаба 2.lib" /MACHINE:X86 Debug\2.obj
+         LINK : не найден или не выполнена сборка C:\Users\Кирлл\documents\visual studio 2010\Projects\лаба 2\Debug\лаба 2.exe при последней инкрементной компоновке; выполняется полная компоновка
+         лаба 2.vcxproj -> C:\Users\Кирлл\documents\visual studio 2010\Projects\лаба 2\Debug\лаба 2.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Кирлл\documents\visual studio 2010\Projects\лаба 2\Debug\лаба 2.exe;#1" /manifest "Debug\лаба 2.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\лаба 2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\лаба 2.lastbuildstate".
+     1>Построение проекта "C:\Users\Кирлл\documents\visual studio 2010\Projects\лаба 2\лаба 2\лаба 2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.35
